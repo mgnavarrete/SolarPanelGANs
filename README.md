@@ -1,1 +1,9 @@
 # SolarPanelGANs
+Clase1: 14656	
+Clase2: 32	
+Clase3: 156	
+Clase4: 55451	
+Clase5: 14212	
+Clase6: 105729	
+Clase7: 6	
+Clase8: 3677
